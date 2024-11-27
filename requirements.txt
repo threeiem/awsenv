@@ -1,0 +1,4 @@
+boto3==1.28.44
+python-dotenv==1.0.0
+pydantic==2.3.0
+typer==0.9.0
